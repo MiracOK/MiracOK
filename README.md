@@ -1,16 +1,37 @@
-## Hi there 👋
+# Moi c'est Mirac Demirci 👋
 
-<!--
-**MiracOK/MiracOK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actuellement en **BUT Informatique** à l'IUT Nancy-Charlemagne, je suis développeur Full-Stack. Mon approche repose sur la conception d'architectures propres et modulaires, en me concentrant toujours sur la compréhension du besoin métier et des contraintes avant de passer au code.
 
-Here are some ideas to get you started:
+Je recherche activement une **alternance Full-Stack de 24 mois** pour la rentrée afin de valider mon inscription en Master Informatique Appliquée et Systèmes Intelligents à l'Université Catholique de Lille (FGES).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **Secteurs recherchés :** Lille, Nancy, Épinal
+
+---
+
+### 💻 Stack Technique & Outils
+
+- **Langages :** TypeScript, JavaScript, PHP, SQL
+- **Front-end :** Next.js, React, React Native, Angular, Vue.js, HTML/CSS
+- **Back-end & BDD :** Node.js (NestJS, Express), PostgreSQL, MySQL, Prisma, WebSockets
+- **DevOps & Méthodes :** Docker, Architecture Microservices (RabbitMQ), Git, Méthodes Agiles
+
+---
+
+### 💼 Projets Personnels & Professionnels (sur mon Portfolio)
+
+- **2B-CAR** (Application web et mobile)
+- **CosmeticScan** (Application de scan de produits cosmétiques)
+
+---
+
+### 🚀 Projets GitHub Récents
+
+Découvrez mes dépôts épinglés juste en dessous :
+- **Diagramme Collaboratif** (Temps réel avec WebSockets)
+- **Morpion multijoueur** (Temps réel avec WebSockets)
+- **Toubilib** (Architecture Microservices)
+
+---
+
+🔗 **Lien portfolio :** [mirac-demirci.com](https://mirac-demirci.com/)
+✉️ **Contact :** Disponible par message privé sur LinkedIn ou par mail.
